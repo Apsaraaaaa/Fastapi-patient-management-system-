@@ -1,50 +1,50 @@
 [
-  {
-    "id": 1,
-    "name": "John Doe",
-    "age": 34,
-    "gender": "Male",
-    "disease": "Flu",
-    "admitted": true
-  },
-  {
-    "id": 2,
-    "name": "Jane Smith",
-    "age": 28,
-    "gender": "Female",
-    "disease": "Migraine",
-    "admitted": false
-  },
-  {
-    "id": 3,
-    "name": "Michael Johnson",
-    "age": 45,
-    "gender": "Male",
-    "disease": "Diabetes",
-    "admitted": true
-  },
-  {
-    "id": 4,
-    "name": "Emily Davis",
-    "age": 52,
-    "gender": "Female",
-    "disease": "Hypertension",
-    "admitted": true
-  },
-  {
-    "id": 5,
-    "name": "William Brown",
-    "age": 37,
-    "gender": "Male",
-    "disease": "Fracture",
-    "admitted": false
-  },
-  {
-    "id": 6,
-    "name": "Sophia Wilson",
-    "age": 22,
-    "gender": "Female",
-    "disease": "Asthma",
-    "admitted": true
-  }
+    {
+        "id": 1,
+        "name": "John Doe",
+        "age": 34,
+        "gender": "Male",
+        "disease": "Flu",
+        "admitted": true
+    },
+    {
+        "id": 2,
+        "name": "Jane Smith",
+        "age": 28,
+        "gender": "Female",
+        "disease": "Migraine",
+        "admitted": false
+    },
+    {
+        "id": 3,
+        "name": "Michael Johnson",
+        "age": 45,
+        "gender": "Male",
+        "disease": "Diabetes",
+        "admitted": true
+    },
+    {
+        "id": 4,
+        "name": "Emily Davis",
+        "age": 52,
+        "gender": "Female",
+        "disease": "Hypertension",
+        "admitted": true
+    },
+    {
+        "id": 5,
+        "name": "William Brown",
+        "age": 37,
+        "gender": "Male",
+        "disease": "Fracture",
+        "admitted": false
+    },
+    {
+        "id": 6,
+        "name": "Sophia Wilson",
+        "age": 22,
+        "gender": "Female",
+        "disease": "Asthma",
+        "admitted": true
+    }
 ]
